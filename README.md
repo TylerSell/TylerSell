@@ -1,4 +1,10 @@
-# Hi there 👋
+## Hi I'm Tyler Sell
+I am a Full-Stack Engineering Student at Flatiron School.  Iam based in Columbia, Missouri.
+
+For the past couple of years outside my day job I have been learning to code.  I enjoy focusing on projects that mean something to me or solve problems in the world.  See my pinned repositories for my projects I am most proud of.
+
+## What I'm Focusing On
+Currently I am working on my final project for Flatiron School and searching for my first job in the industry.  I am honing my skills in React, Redux, and Javascript while continuing to develop my Rails API skills.
 
 <!--
 **TylerSell/TylerSell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,5 +28,7 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=TylerSell)](https://github.com/tylersell/github-readme-stats)
 
 ## Connect With Me
+
+I am always looking to connect with more people.  Feel free to reach out to me in any of the ways below. <br />
 [![Linkedin: tyler-sell](https://img.shields.io/badge/-tyler--sell-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-sell/)](https://www.linkedin.com/in/tyler-sell/) [![Email: tylerselldeisgn](https://img.shields.io/badge/-tylerselldesign@gmail.com-lightgrey?style=flat&logo=Gmail&logoColor=red)](mailto:tylerselldesign@gmail.com) [![Phone: tyler-phone-number](https://img.shields.io/badge/-636--486--7077-succcess?style=flat&logo=WhatsApp&logoColor=white)](tel:6364867077)
 
