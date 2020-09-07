@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 [![](https://github-readme-stats.vercel.app/api?username=TylerSell)](https://github.com/tylersell/github-readme-stats)
 
 ## Connect With Me
-[![Linkedin: tyler-sell](https://img.shields.io/badge/-tyler--sell-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-sell/)](https://www.linkedin.com/in/tyler-sell/) [![Email: tylerselldeisgn](https://img.shields.io/badge/-tylerselldesign@gmail.com-FFFFFF?style=flat&logo=Gmail&logoColor=red)](https://www.linkedin.com/in/tyler-sell/)
+[![Linkedin: tyler-sell](https://img.shields.io/badge/-tyler--sell-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tyler-sell/)](https://www.linkedin.com/in/tyler-sell/) [![Email: tylerselldeisgn](https://img.shields.io/badge/-tylerselldesign@gmail.com-FFFFFF?style=flat&logo=Gmail&logoColor=red)](mailto:tylerselldesign@gmail.com)
+
