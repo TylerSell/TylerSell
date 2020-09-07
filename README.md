@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 ## :floppy_disk: Technology
 
 ![](https://img.shields.io/badge/Code-Ruby/Rails-CC342D?style=plastic&logo=Ruby) ![](https://img.shields.io/badge/Code-Javascript-F7DF1E?style=plastic&logo=JavaScript) ![](https://img.shields.io/badge/Code-React-61DAFB?style=plastic&logo=React) ![](https://img.shields.io/badge/Code-Redux-764ABC?style=plastic&logo=Redux) ![](https://img.shields.io/badge/Code-HTML-E34F26?style=plastic&logo=HTML5) ![](https://img.shields.io/badge/Code-CSS-1572B6?style=plastic&logo=CSS3)
+
+[![](https://github-readme-stats.vercel.app/api?username=TylerSell)](https://github.com/tylersell/github-readme-stats)
