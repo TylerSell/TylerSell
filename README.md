@@ -1,5 +1,5 @@
 ## Hi I'm Tyler Sell
-I am a Full-Stack Engineering Student at Flatiron School.  Iam based in Columbia, Missouri.
+I am a Full-Stack Engineering Student at Flatiron School.  I'm based in Columbia, Missouri.
 
 For the past couple of years outside my day job I have been learning to code.  I enjoy focusing on projects that mean something to me or solve problems in the world.  See my pinned repositories for my projects I am most proud of.
 
